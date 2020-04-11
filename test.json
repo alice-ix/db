@@ -1,0 +1,23 @@
+{
+    "Table": [
+        {
+            "CD_FIRM": "1000",
+            "NM_FIRM": "지투시스넷",
+            "CD_USER": "1000",
+            "NM_USER": "홍길동",
+            "CD_EMP": "1101",
+            "NM_EMP": "홍길동",
+            "CD_DEPT": "2001",
+            "NM_DEPT": "영업1팀",
+            "NO_HP": "010-2849-0000",
+            "DC_MAILSERVER": "mail.g2sysnet.com",
+            "DC_EMAIL": "tubee2000@nate.com",
+            "NO_MAILPWD": "#frssDnv",
+            "PORT_SMTP": "25",
+            "AUTHOR": "U",
+            "CD_DATE": "20200411",
+            "NM_DATE": "2020-04-11 (토)",
+            "DC_PHOTO": ""
+        }
+    ]
+}
